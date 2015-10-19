@@ -1,0 +1,1 @@
+This tutorial is offered from jumpstartlabs at http://tutorials.jumpstartlab.com/projects/eventmanager.html. Its a good tutorial in showing how to use API’s, the ERB format and iteration through large CSV files. I implemented all of the extra iteration that can be found at the end and commented it out in my code. 
